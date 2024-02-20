@@ -1,1 +1,14 @@
-
+[
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-kumelenme_destek_programi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi4.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet_proje_bazli_tesvik_sistemi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi20.png"
+  },
+  {
+    "title": "https://www.yatirimadestek.gov.tr/pdf/assets/upload/dosyalar/ozet-teknolojik_urun_deneyim_tur_belgesi_destegi.pdf",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sanayi56.png"
+  }
+]
